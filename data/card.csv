@@ -1,0 +1,7 @@
+"type   "," name                  "," attack"," defense"," effect     "," target"," place"
+monster," Blue-Eyes White Dragon","   3000","    2500","            "," self  "," field"
+monster," Dark Magician         ","   2500","    2100","            "," self  "," field"
+monster," Red-Eyes Black Dragon ","   2400","    2000","            "," self  "," field"
+"spell  "," Monster Reborn        ","      0","       0"," Summon 1   "," all   "," graveyard"
+"spell  "," Raigeki               ","      0","       0"," destroy all"," all   "," field"
+"spell  "," Pot of Greed          ","      0","       0"," draw 2  "," self  "," hand"
